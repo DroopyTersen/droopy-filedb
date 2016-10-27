@@ -1,0 +1,30 @@
+{
+  "name": "droopy-filedb",
+  "version": "1.0.0",
+  "description": "Simple flat file database",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/droopytersen/droopy-filedb.git"
+  },
+  "keywords": [
+    "droopy",
+    "database",
+    "flatfile",
+    "flat",
+    "JSON",
+    "lowdb"
+  ],
+  "author": "Andrew Petersen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/droopytersen/droopy-filedb/issues"
+  },
+  "homepage": "https://github.com/droopytersen/droopy-filedb#readme",
+  "dependencies": {
+    "lowdb": "^0.14.0"
+  }
+}
